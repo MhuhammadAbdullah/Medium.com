@@ -1,0 +1,167 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #000000;
+}
+img{
+    width: 170px;
+    height: 50px;
+    margin-right: 900px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    align-items: center;
+    background-color: #000000;
+    border-bottom: 1px solid white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 25px;
+    align-items: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    color: white;
+}
+
+.btn2 {
+    border: 1px solid white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: white;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
+.btn3 {
+    border: 1px solid;
+    padding: 10px 15px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+}
+
+.btn3 a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.text{
+    margin-left: 80px;
+    margin-top: 180px;
+    color: white;
+}
+
+h1{
+    font-size: 85px;
+    font-weight: 400;
+    line-height: 70px;
+    letter-spacing: -3px;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+}
+
+.para mark{
+    color: white;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+p a{
+    color: white;
+}
+
+.links{
+    padding-top: 100px;
+    margin: 0px;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.links h1{
+    border: 1px solid white;
+    border-left: none;
+    border-right: none;
+    padding-left: 85px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+.links h1:hover{
+    background-color: white;
+    color: #000000;
+}
+.links h1 i{
+    padding-left: 930px;
+}
+
+.links .btn5 i{
+    padding-left: 720px;
+}
+
+.links h1 {
+    color: white;
+    margin: 0;
+    
+}
+
+.links h1 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.links h1 a i {
+    transition: color 0.3s;
+}
+
+.links #i:hover {
+    color: #000000;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    align-items: center;
+    background-color: white;
+}
+
+footer div img{
+    width: 180px;
+    height: 90px;
+    margin-right: 900px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin: 25px;
+    align-items: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer li a{
+    color: #000000;
+}
+
